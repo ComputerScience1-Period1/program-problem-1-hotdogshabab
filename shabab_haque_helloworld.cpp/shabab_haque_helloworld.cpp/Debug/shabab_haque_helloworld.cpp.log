@@ -1,0 +1,5 @@
+﻿  shabab_haque_displaytext.cpp
+c:\users\231118\desktop\visual studio code\shabab_haque_helloworld.cpp\shabab_haque_helloworld.cpp\shabab_haque_displaytext.cpp(10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\231118\desktop\visual studio code\shabab_haque_helloworld.cpp\shabab_haque_helloworld.cpp\shabab_haque_displaytext.cpp(11): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  shabab_haque_helloworld.cpp.vcxproj -> C:\Users\231118\Desktop\visual studio code\shabab_haque_helloworld.cpp\Debug\shabab_haque_displaytext.exe
+  shabab_haque_helloworld.cpp.vcxproj -> C:\Users\231118\Desktop\visual studio code\shabab_haque_helloworld.cpp\Debug\shabab_haque_displaytext.pdb (Partial PDB)
